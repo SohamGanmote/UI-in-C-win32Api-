@@ -28,8 +28,8 @@ A simple calculator application built in **C** using the **Win32 API** for the u
 3. Compile the code using your preferred compiler. For example, with GCC:  
 
    ```bash
-   gcc -o Calculator calculator.c -lgdi32
+   gcc -o Calculator calculator.c -Calculator
 4. Run the compiled executable:  ```
 
    ```bash
-   Calculator.exe```
+   Calculator.exe 
